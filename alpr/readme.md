@@ -20,3 +20,4 @@ Explanation:
 0 = Start frame
 2000 = End frame
 10 = Only send a request of the number 10, 20, 30, 40 , ... etc frame
+1_converted.mp4 = the path of your video
